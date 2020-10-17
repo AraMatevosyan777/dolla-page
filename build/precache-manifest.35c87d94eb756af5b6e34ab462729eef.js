@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07fc838f82e34ae03b4b32484342802d",
+    "revision": "0df7963ed2e5a63a19e6e63681614366",
     "url": "/dolla-page/index.html"
   },
   {
-    "revision": "0e2931bfa22eecb4e09b",
+    "revision": "acbd6568c86a1adf7b20",
     "url": "/dolla-page/static/css/main.28b02d76.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dolla-page/static/js/2.20480a58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0e2931bfa22eecb4e09b",
-    "url": "/dolla-page/static/js/main.3dfdce56.chunk.js"
+    "revision": "acbd6568c86a1adf7b20",
+    "url": "/dolla-page/static/js/main.64ca1286.chunk.js"
   },
   {
     "revision": "03e6cae548a8280b0031",
