@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dolla-page/static/css/main.28b02d76.chunk.css",
+    "main.js": "/dolla-page/static/js/main.48fbfad9.chunk.js",
+    "main.js.map": "/dolla-page/static/js/main.48fbfad9.chunk.js.map",
+    "runtime-main.js": "/dolla-page/static/js/runtime-main.b9054647.js",
+    "runtime-main.js.map": "/dolla-page/static/js/runtime-main.b9054647.js.map",
+    "static/js/2.48bf2ab1.chunk.js": "/dolla-page/static/js/2.48bf2ab1.chunk.js",
+    "static/js/2.48bf2ab1.chunk.js.map": "/dolla-page/static/js/2.48bf2ab1.chunk.js.map",
+    "index.html": "/dolla-page/index.html",
+    "precache-manifest.4441cda9df0c47f798227f1012d2ccf8.js": "/dolla-page/precache-manifest.4441cda9df0c47f798227f1012d2ccf8.js",
+    "service-worker.js": "/dolla-page/service-worker.js",
+    "static/css/main.28b02d76.chunk.css.map": "/dolla-page/static/css/main.28b02d76.chunk.css.map",
+    "static/js/2.48bf2ab1.chunk.js.LICENSE.txt": "/dolla-page/static/js/2.48bf2ab1.chunk.js.LICENSE.txt",
+    "static/media/svg1.svg": "/dolla-page/static/media/svg1.715313cd.svg",
+    "static/media/svg2.svg": "/dolla-page/static/media/svg2.4a122f73.svg",
+    "static/media/svg3.svg": "/dolla-page/static/media/svg3.b505de2a.svg",
+    "static/media/video.mp4": "/dolla-page/static/media/video.ed44dc5d.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9054647.js",
+    "static/js/2.48bf2ab1.chunk.js",
+    "static/css/main.28b02d76.chunk.css",
+    "static/js/main.48fbfad9.chunk.js"
+  ]
+}
