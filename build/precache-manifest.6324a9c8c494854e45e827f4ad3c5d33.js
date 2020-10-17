@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f91538926521a2b7987f9e1d7792775",
+    "revision": "07fc838f82e34ae03b4b32484342802d",
     "url": "/dolla-page/index.html"
   },
   {
-    "revision": "8ee3419b034240434644",
+    "revision": "0e2931bfa22eecb4e09b",
     "url": "/dolla-page/static/css/main.28b02d76.chunk.css"
   },
   {
-    "revision": "01c90a1a91e9ca944986",
-    "url": "/dolla-page/static/js/2.48bf2ab1.chunk.js"
+    "revision": "a80fe61c7c6a29956619",
+    "url": "/dolla-page/static/js/2.20480a58.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/dolla-page/static/js/2.48bf2ab1.chunk.js.LICENSE.txt"
+    "url": "/dolla-page/static/js/2.20480a58.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8ee3419b034240434644",
-    "url": "/dolla-page/static/js/main.48fbfad9.chunk.js"
+    "revision": "0e2931bfa22eecb4e09b",
+    "url": "/dolla-page/static/js/main.3dfdce56.chunk.js"
   },
   {
     "revision": "03e6cae548a8280b0031",
